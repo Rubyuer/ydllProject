@@ -1,7 +1,7 @@
 #一刀料理
 
-Application Description: 
-Take you into "one-size-fits-all" cuisine, which includes sushi, tattoo, ramen and sake. Solve the problem of what you eat.
+应用说明:
+  带你走进"一刀料理"，该款首推寿司、刺身、拉面、清酒。解决你吃的问题。
 
 
 有问题联系技术支持邮箱地址:Rubyuer@sina.com
