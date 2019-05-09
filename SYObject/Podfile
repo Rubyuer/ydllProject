@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+use_frameworks!
+platform :ios, '9.0'
+inhibit_all_warnings!
+
+target 'SYObject' do
+
+
+  pod 'AFNetworking'
+  # tabbar
+  pod 'CYLTabBarController'
+  pod 'MJRefresh'
+  pod 'MJExtension'
+  pod 'MBProgressHUD'
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+pod 'WMPageController', '~> 2.4.0' #分页控制器
+# 手势滑动返回
+  pod 'RTRootNavigationController'
+pod 'Masonry', '~> 1.0.2'
+# UI开发效率解决方案
+pod 'QMUIKit'
+  pod 'SDCycleScrollView'
+
+end
